@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  HomeService
+
+  Created by Sergiy Kostrykin on 25.05.2022.
+  
+*/
+
+// MARK: Tabs
+"tab.articles" = "Articles";
+"tab.blogs" = "Blogs";
+
+// MARK: - Services
+"services.showMore" = "Show more services";
